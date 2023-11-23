@@ -17,12 +17,12 @@ This is a simple implementation of the classic Tic-Tac-Toe game with a graphical
 
 ### Start Page
 
-![Start Page](images/start_page.png)
+![Start Page](images/imageOne.png)
 
 
 ### Game Page
 
-![Game Page](images/game_page.png)
+![Game Page](images/imageTwo.png)
 
 
 ## How to Test the App
