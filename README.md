@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe](images/tic_tac_toe_screenshot.png)
+Welcome to the Tic-Tac-Toe Game, a simple and entertaining project designed for both fun and learning.
 
 ## Description
 
