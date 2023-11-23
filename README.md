@@ -27,4 +27,4 @@ This is a simple implementation of the classic Tic-Tac-Toe game with a graphical
 
 ## How to Test the App
 
-If you only want to test the application without building it, you can download the Release Folder
+If you only want to test the application without building it, check Release folder
